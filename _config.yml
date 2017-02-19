@@ -1,2 +1,7 @@
-permalink: /notes/:year/:month/:day/:title
+# Site settings
+
+url: "http://ocesaulo.github.io"
+baseurl: /ocesaulo_home
+
+permalink: /projects/:year/:month/:day/:title
 markdown: kramdown
